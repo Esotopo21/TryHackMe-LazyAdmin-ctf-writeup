@@ -114,5 +114,5 @@ output:
 
 Output:
 
-<root flag>
+root flag
   
