@@ -68,7 +68,7 @@ Once you've inserted the webshell in the template start a nc listener on the por
 
 Using "find" you can easily locate the user.txt file, for root.txt we probably need to gain root privileges.
 
-##Privilege escalation
+## Privilege escalation
 
 Checking permissions on victims host:
 
