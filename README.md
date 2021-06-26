@@ -1,0 +1,1 @@
+# TryHackMe-LazyAdmin-ctf-writeup
